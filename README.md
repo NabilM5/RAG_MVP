@@ -45,6 +45,6 @@ I conducted three comparative runs using different model combinations. **Run 1 (
 
 **Submission Files Included:**
 * `rag_system.py`: [The source code](https://github.com/NabilM5/RAG_MVP/blob/main/rag_system.py).
-* `test_set_Mouhamech_Nabil.xlsx`: The final generated answers.
-* `README.md`: This documentation.
+* `test_set_Mouhamech_Nabil.xlsx`: [The final generated answers.](https://github.com/NabilM5/RAG_MVP/blob/main/test_set_Mouhamech_Nabil.xlsx)
+* `README.md`: [This documentation.](https://github.com/NabilM5/RAG_MVP/blob/main/README.md)
 * **Screencast Link**: [\[Google Drive Click Here\]](https://drive.google.com/drive/folders/1j3sOFy1OAshjkzoSZOEbz6dK01LBmPd2?usp=sharing).
