@@ -255,7 +255,7 @@ for i, q in enumerate(questions, start=1):
     results.append({"question": q, "answer": answer})
 
 df = pd.DataFrame(results)
-output_path = Path(__file__).resolve().parent / "test_set_Mouhamech_Nabil_3.xlsx"
+output_path = Path(__file__).resolve().parent / "test_set_Mouhamech_Nabil.xlsx"
 df.to_excel(output_path, index=False)
 
 # Improve readability of the output file
